@@ -1,0 +1,6 @@
+torch==2.0.0  # Jetson compatible version
+torchvision==0.15.0
+opencv-python==4.8.0.74
+numpy==1.24.3
+Pillow==10.0.0
+pynvml==11.5.0  # For GPU monitoring
